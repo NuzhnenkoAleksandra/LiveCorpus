@@ -1,4 +1,4 @@
-# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe 
 # udpipe_model = russian-syntagrus-ud-2.6-200830
 # udpipe_model_licence = CC BY-NC-SA
 1	сначала	сначала	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#8.82#9.02
@@ -67,7 +67,7 @@
 64	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#21.287#21.482
 65	так	так	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#21.482#21.677
 66	там	там	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#21.677#21.872
-67	тесновато	тесноватый	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@avl1986m#@avl1986m#21.872#22.067
+67	тесновато	тесноватый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@avl1986m#@avl1986m#21.872#22.067
 68	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#22.067#22.27
 69	потом	потом	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#22.921#23.143
 70	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	words@avl1986m#@avl1986m#23.143#23.365
@@ -76,7 +76,7 @@
 73	другом	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#23.809#24.031
 74	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#24.031#24.253
 75	этаж	этаж	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#24.253#24.475
-76	целый	целый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#24.475#24.697
+76	целый	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#24.475#24.697
 77	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#24.697#24.92
 78	но	но	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#25.501#25.68
 79	там	там	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#25.68#25.859
@@ -120,7 +120,7 @@
 117	и	и	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#34.036#34.24
 118	вс...	вс...	X	_	_	_	_	_	words@avl1986m#@avl1986m#34.24#34.444
 119	и	и	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#34.444#34.648
-120	типа	тип	    INTJ	_	_	_	_	_	words@avl1986m#@avl1986m#34.648#34.852
+120	типа	тип	    NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	_	words@avl1986m#@avl1986m#34.648#34.852
 121	все	все	PRON	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	_	_	_	words@avl1986m#@avl1986m#34.852#35.056
 122	как	как	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#35.056#35.26
 123	бы	бы	PART	_	_	_	_	_	words@avl1986m#@avl1986m#35.26#35.464
@@ -134,7 +134,7 @@
 131	да	да	PART	_	_	_	_	_	words@avl1986m#@avl1986m#36.891#37.027
 132	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#37.027#37.163
 133	как	как	SCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#37.163#37.299
-134	минимум	минимум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#37.299#37.435
+134	минимум	минимум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#37.299#37.435
 135	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#37.435#37.577
 136	вот	вот	PART	_	_	_	_	_	words@avl1986m#@avl1986m#38.497#38.661
 137	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#38.661#38.825
@@ -145,16 +145,16 @@
 142	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	words@avl1986m#@avl1986m#39.481#39.645
 143	этаж	этаж	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#39.645#39.809
 144	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#39.809#39.973
-145	другой	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#39.973#40.137
+145	другой	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#39.973#40.137
 146	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#40.137#40.307
 147	и	и	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#40.872#41.102
 148	как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#41.102#41.332
 149	все	все	PRON	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	_	_	_	words@avl1986m#@avl1986m#41.332#41.562
 150	потихонечку	потихонечку	ADV	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#41.562#41.792
 151	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#41.792#42.022
-152	эээ	эээ	X	_	_	_	_	_	words@avl1986m#@avl1986m#42.022#42.252
+152	эээ	эээ	INTJ	_	_	_	_	_	words@avl1986m#@avl1986m#42.022#42.252
 153	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#42.252#42.482
-154	расф	расф	X	_	_	_	_	_	words@avl1986m#@avl1986m#42.482#42.712
+154	расф...	расф...	X	_	_	_	_	_	words@avl1986m#@avl1986m#42.482#42.712
 155	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#42.712#42.942
 156	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#42.942#43.172
 157	уже	уже	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#43.172#43.402
@@ -233,7 +233,7 @@
 230	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#81.81#82.036
 231	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@avl1986m#@avl1986m#82.036#82.262
 232	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@avl1986m#@avl1986m#82.262#82.488
-233	нормаль...	нормально	ADJ	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#82.488#82.714
+233	нормаль...	нормально	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#82.488#82.714
 234	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#82.714#82.94
 235	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#82.94#83.166
 236	иногда	иногда	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#83.166#83.392
@@ -294,7 +294,7 @@
 291	как	как	SCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#97.645#97.914
 292	как	как	SCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#97.914#98.183
 293	в	в	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#98.183#98.452
-294	Колобке	Колобок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#98.452#98.721
+294	Колобке	Колобок	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#98.452#98.721
 295	там	там	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#98.721#98.99
 296	с	с	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#98.99#99.259
 297	по	по	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#99.259#99.528
@@ -408,17 +408,17 @@
 405	порой	порой	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#140.51#140.8
 406	даже	даже	PART	_	_	_	_	_	words@avl1986m#@avl1986m#140.8#141.09
 407	выглядели	выглядеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#141.09#141.38
-408	прям	прям	ADJ	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#141.38#141.67
+408	прям	прямо	PART	_	_	_	_	_	words@avl1986m#@avl1986m#141.38#141.67
 409	как	как	SCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#141.67#141.96
 410	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	words@avl1986m#@avl1986m#141.96#142.25
 411	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#142.25#142.54
 412	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#142.54#142.83
 413	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#142.83#143.12
-414	модненькие	модненький	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	words@avl1986m#@avl1986m#143.12#143.41
+414	модненькие	модненький	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@avl1986m#@avl1986m#143.12#143.41
 415	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#143.41#143.7
-416	фирмовые	фирмовый	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	words@avl1986m#@avl1986m#143.7#143.99
+416	фирмовые	фирмовый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@avl1986m#@avl1986m#143.7#143.99
 417	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#143.99#144.28
-418	ребята	ребята	NOUN	_	Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur	_	_	_	words@avl1986m#@avl1986m#144.28#144.57
+418	ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@avl1986m#@avl1986m#144.28#144.57
 419	с	с	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#144.57#144.86
 420	какими-то	какой-то	DET	_	Case=Ins|Number=Plur	_	_	_	words@avl1986m#@avl1986m#144.86#145.15
 421	непонятными	непонятный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	words@avl1986m#@avl1986m#145.15#145.44
@@ -431,7 +431,7 @@
 428	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#148.26#148.517
 429	и	и	PART	_	_	_	_	_	words@avl1986m#@avl1986m#148.517#148.774
 430	переходили	переходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#148.774#149.031
-431	вещи	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@avl1986m#@avl1986m#149.031#149.288
+431	вещи	вещь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@avl1986m#@avl1986m#149.031#149.288
 432	конечно	конечно	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#149.288#149.545
 433	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#149.545#149.802
 434	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@avl1986m#@avl1986m#149.802#150.059
@@ -476,8 +476,8 @@
 473	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	words@avl1986m#@avl1986m#159.73#159.922
 474	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#159.922#160.114
 475	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#160.114#160.306
-476	ф...	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#160.306#160.498
-477	форма	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#160.498#160.69
+476	ф...	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#160.306#160.498
+477	форма	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#160.498#160.69
 478	черно-белая	черно-белый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#160.69#160.882
 479	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#160.882#161.074
 480	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@avl1986m#@avl1986m#161.074#161.266
@@ -518,7 +518,7 @@
 515	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#169.571#169.792
 516	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#169.792#170.013
 517	Ювентос	Ювентос	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#170.013#170.234
-518	естественно	естественный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@avl1986m#@avl1986m#170.234#170.455
+518	естественно	естественный	ADV	_	Degree=Pos _	_	_	_	words@avl1986m#@avl1986m#170.234#170.455
 519	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#170.455#170.676
 520	потому	потому	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#170.676#170.897
 521	что	что	SCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#170.897#171.118
@@ -594,7 +594,7 @@
 591	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#203.628#203.772
 592	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#203.772#203.916
 593	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#203.916#204.06
-594	эээ	эээ	X	_	_	_	_	_	words@avl1986m#@avl1986m#204.06#204.204
+594	эээ	эээ	INTJ	_	_	_	_	_	words@avl1986m#@avl1986m#204.06#204.204
 595	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#204.204#204.35
 596	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	words@avl1986m#@avl1986m#205.54#205.861
 597	же	же	PART	_	_	_	_	_	words@avl1986m#@avl1986m#205.861#206.182
@@ -633,7 +633,7 @@
 630	не	не	PART	_	_	_	_	_	words@avl1986m#@avl1986m#216.047#216.161
 631	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#216.161#216.275
 632	с	с	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#216.275#216.389
-633	ним	он	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#216.389#216.505
+633	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	_	_	_	words@avl1986m#@avl1986m#216.389#216.505
 634	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#220.34#220.515
 635	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#220.515#220.69
 636	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#221.1#221.305
@@ -695,7 +695,7 @@
 692	и	и	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#238.75#238.882
 693	как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#238.882#239.014
 694	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#239.014#239.146
-695	эээ	эээ	X	_	_	_	_	_	words@avl1986m#@avl1986m#239.146#239.278
+695	эээ	эээ	INTJ	_	_	_	_	_	words@avl1986m#@avl1986m#239.146#239.278
 696	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#239.278#239.41
 697	и	и	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#239.895#240.073
 698	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	words@avl1986m#@avl1986m#240.073#240.251
@@ -757,8 +757,8 @@
 754	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#252.018#252.266
 755	которая	который	PRON	_	Case=Nom	_	_	_	words@avl1986m#@avl1986m#252.266#252.514
 756	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#252.514#252.762
-757	друг	друг	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#252.762#253.01
-758	эээ	эээ	X	_	Foreign=Yes	_	_	_	words@avl1986m#@avl1986m#253.01#253.258
+757	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#252.762#253.01
+758	эээ	эээ	INTJ	_	Foreign=Yes	_	_	_	words@avl1986m#@avl1986m#253.01#253.258
 759	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#253.258#253.506
 760	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#253.506#253.754
 761	не	не	PART	_	_	_	_	_	words@avl1986m#@avl1986m#253.754#254.002
@@ -777,7 +777,7 @@
 774	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@avl1986m#@avl1986m#256.978#257.226
 775	конечно	конечно	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#257.226#257.474
 776	дружные	дружный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@avl1986m#@avl1986m#257.474#257.722
-777	нереально	нереальный	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#257.722#257.97
+777	нереально	нереально	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#257.722#257.97
 778	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#257.97#258.26
 779	нет	нет	PART	_	_	_	_	_	words@avl1986m#@avl1986m#267.53#267.61
 780	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#267.61#267.69
@@ -894,7 +894,7 @@
 891	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#302.432#302.646
 892	нет	нет	INTJ	_	_	_	_	_	words@avl1986m#@avl1986m#302.646#302.86
 893	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#302.86#303.074
-894	одинаковой	одинаковый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#303.074#303.288
+894	одинаковой	одинаковый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#303.074#303.288
 895	нету	нет	PART	_	_	_	_	_	words@avl1986m#@avl1986m#303.288#303.502
 896	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#303.502#303.716
 897	точно	точно	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#303.716#303.93
@@ -931,11 +931,11 @@
 928	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#315.212#315.42
 929	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#316.025#316.315
 930	реставрирует	реставрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#316.315#316.605
-931	ретр...	ретро	ADJ	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#316.605#316.895
+931	ретр...	ретро	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@avl1986m#@avl1986m#316.605#316.895
 932	ретро-тачки	ретро-тачка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@avl1986m#@avl1986m#316.895#317.185
 933	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#317.185#317.475
 934	ну	ну	PART	_	_	_	_	_	words@avl1986m#@avl1986m#317.475#317.765
-935	короче	короче	INTJ	_	_	_	_	_	words@avl1986m#@avl1986m#317.765#318.055
+935	короче	короче	ADV _ Degree=Pos	_	_	_	_	words@avl1986m#@avl1986m#317.765#318.055
 936	по	по	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#318.055#318.345
 937	автомобилям	автомобиль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	_	_	_	words@avl1986m#@avl1986m#318.345#318.635
 938	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#318.635#318.925
@@ -1010,7 +1010,7 @@
 1007	для	для	ADP	_	_	_	_	_	words@yad1986m#@yad1986m#6.842#7.024
 1008	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#7.024#7.206
 1009	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#7.206#7.388
-1010	эээ	эээ	X	_	Foreign=Yes	_	_	_	words@yad1986m#@yad1986m#7.388#7.57
+1010	эээ	эээ	INTJ	_	Foreign=Yes	_	_	_	words@yad1986m#@yad1986m#7.388#7.57
 1011	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#7.57#7.752
 1012	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#7.752#7.934
 1013	или	или	CCONJ	_	_	_	_	_	words@yad1986m#@yad1986m#7.934#8.12
@@ -1042,11 +1042,11 @@
 1039	охренеть	охренеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@yad1986m#@yad1986m#60.591#61.711
 1040	смотри	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#63.78#64.04
 1041	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#64.04#64.3
-1042	эээ	эээ	X	_	Foreign=Yes	_	_	_	words@yad1986m#@yad1986m#64.3#64.56
+1042	эээ	эээ	INTJ	_	Foreign=Yes	_	_	_	words@yad1986m#@yad1986m#64.3#64.56
 1043	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#64.56#64.82
 1044	в	в	ADP	_	_	_	_	_	words@yad1986m#@yad1986m#64.82#65.08
 1045	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#65.08#65.34
-1046	эээ	эээ	X	_	Foreign=Yes	_	_	_	words@yad1986m#@yad1986m#65.34#65.6
+1046	эээ	эээ	INTJ	_	Foreign=Yes	_	_	_	words@yad1986m#@yad1986m#65.34#65.6
 1047	//	//	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#65.6#65.86
 1048	местной	местный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@yad1986m#@yad1986m#65.86#66.12
 1049	прессе	пресса	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@yad1986m#@yad1986m#66.12#66.38
@@ -1120,7 +1120,7 @@
 1117	в	в	ADP	_	_	_	_	_	words@yad1986m#@yad1986m#117.526#117.772
 1118	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@yad1986m#@yad1986m#117.772#118.018
 1119	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#118.018#118.264
-1120	эээ	эээ	X	_	_	_	_	_	words@yad1986m#@yad1986m#118.264#118.51
+1120	эээ	эээ	INTJ	_	_	_	_	_	words@yad1986m#@yad1986m#118.264#118.51
 1121	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@yad1986m#@yad1986m#118.51#118.76
 1122	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#119.57#119.907
 1123	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#119.907#120.244
@@ -1204,7 +1204,7 @@
 1201	того	тот	DET	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#262.433#262.812
 1202	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#262.812#263.191
 1203	кто	кто	PRON	_	Case=Nom	_	_	_	words@yad1986m#@yad1986m#263.191#263.57
-1204	когда-нтбудь	когда-нтбудь	ADV	_	Degree=Pos	_	_	_	words@yad1986m#@yad1986m#263.57#263.949
+1204	когда-нибудь	когда-нибудь	ADV	_	Degree=Pos	_	_	_	words@yad1986m#@yad1986m#263.57#263.949
 1205	шел	идти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#263.949#264.328
 1206	против	против	ADP	_	_	_	_	_	words@yad1986m#@yad1986m#264.328#264.707
 1207	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@yad1986m#@yad1986m#264.707#265.086
