@@ -171,7 +171,7 @@
 168	и	и	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#48.127#48.273
 169	там	там	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#48.273#48.419
 170	сколько	сколько	NUM	_	_	_	_	_	words@avl1986m#@avl1986m#48.419#48.565
-171	получается-то	получается-то	VERB	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#48.565#48.711
+171	получается-то	получается-то	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#48.565#48.711
 172	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#48.711#48.861
 173	комнат	комната	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	words@avl1986m#@avl1986m#49.441#49.619
 174	восемь	восемь	NUM	_	Case=Acc	_	_	_	words@avl1986m#@avl1986m#49.619#49.797
@@ -184,7 +184,7 @@
 181	нет	нет	PART	_	_	_	_	_	words@avl1986m#@avl1986m#53.212#53.417
 182	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#53.417#53.622
 183	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@avl1986m#@avl1986m#53.622#53.827
-184	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#53.827#54.032
+184	говорю	говорить	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#53.827#54.032
 185	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#54.032#54.237
 186	так	так	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#54.237#54.442
 187	не	не	PART	_	_	_	_	_	words@avl1986m#@avl1986m#54.442#54.647
@@ -341,7 +341,7 @@
 338	не	не	PART	_	_	_	_	_	words@avl1986m#@avl1986m#109.886#110.102
 339	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#110.102#110.32
 340	или	или	CCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#112.68#112.887
-341	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#112.887#113.094
+341	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#112.887#113.094
 342	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@avl1986m#@avl1986m#113.094#113.301
 343	как	как	SCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#113.301#113.508
 344	крыса	крыса	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#113.508#113.715
@@ -369,7 +369,7 @@
 366	из	из	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#127.964#128.157
 367	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#128.157#128.35
 368	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#128.35#128.56
-369	Маргаретт	Маргаретт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#129.79#129.99
+369	Маргаретт	Маргаретт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#129.79#129.99
 370	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#129.99#130.19
 371	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@avl1986m#@avl1986m#130.52#130.758
 372	не	не	PART	_	_	_	_	_	words@avl1986m#@avl1986m#130.758#130.996
@@ -454,7 +454,7 @@
 451	боле...	болеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#154.171#154.428
 452	болел	болеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#154.428#154.685
 453	за	за	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#154.685#154.942
-454	Торпедо	Торпедо	PROPN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#154.942#155.199
+454	Торпедо	Торпедо	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#154.942#155.199
 455	какое-то	какой-то	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#155.199#155.456
 456	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#155.456#155.713
 457	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#155.713#155.97
@@ -522,7 +522,7 @@
 519	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#170.455#170.676
 520	потому	потому	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#170.676#170.897
 521	что	что	SCONJ	_	_	_	_	_	words@avl1986m#@avl1986m#170.897#171.118
-522	Торпедо	Торпедо	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#171.118#171.339
+522	Торпедо	Торпедо	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#171.118#171.339
 523	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#171.339#171.56
 524	не	не	PART	_	_	_	_	_	words@avl1986m#@avl1986m#171.56#171.781
 525	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#171.781#172.002
@@ -927,7 +927,7 @@
 924	у	у	ADP	_	_	_	_	_	words@avl1986m#@avl1986m#314.404#314.606
 925	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	words@avl1986m#@avl1986m#314.606#314.808
 926	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#314.808#315.01
-927	Слава	Слава	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@avl1986m#@avl1986m#315.01#315.212
+927	Слава	Слава	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#315.01#315.212
 928	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#315.212#315.42
 929	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#316.025#316.315
 930	реставрирует	реставрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@avl1986m#@avl1986m#316.315#316.605
@@ -983,7 +983,7 @@
 980	там	там	ADV	_	Degree=Pos	_	_	_	words@avl1986m#@avl1986m#329.865#330.058
 981	/	/	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#330.058#330.251
 982	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#330.251#330.444
-983	с...	свой	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avl1986m#@avl1986m#330.444#330.637
+983	с...	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#330.444#330.637
 984	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#330.637#330.83
 985	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@avl1986m#@avl1986m#330.83#331.023
 986	//	//	PUNCT	_	_	_	_	_	words@avl1986m#@avl1986m#331.023#331.23
@@ -1089,7 +1089,7 @@
 1086	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#76.476#76.679
 1087	что	что	SCONJ	_	_	_	_	_	words@yad1986m#@yad1986m#76.679#76.882
 1088	там	там	ADV	_	Degree=Pos	_	_	_	words@yad1986m#@yad1986m#76.882#77.085
-1089	лаве	лаве	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	words@yad1986m#@yad1986m#77.085#77.288
+1089	лаве	лаве	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#77.085#77.288
 1090	не	не	PART	_	_	_	_	_	words@yad1986m#@yad1986m#77.288#77.491
 1091	хватало	хватать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#77.491#77.694
 1092	и	и	CCONJ	_	_	_	_	_	words@yad1986m#@yad1986m#77.694#77.897
@@ -1097,11 +1097,11 @@
 1094	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#78.1#78.303
 1095	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#78.303#78.506
 1096	//	//	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#78.506#78.71
-1097	ааа	ааа	NOUN	_	Foreign=Yes	_	_	_	words@yad1986m#@yad1986m#79.12#79.396
+1097	ааа	ааа	INTJ	_	_	_	_	_	words@yad1986m#@yad1986m#79.12#79.396
 1098	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#79.396#79.672
 1099	тяжело	тяжелый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@yad1986m#@yad1986m#79.672#79.95
 1100	или	или	CCONJ	_	_	_	_	_	words@yad1986m#@yad1986m#111.495#111.658
-1101	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#111.658#111.821
+1101	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#111.658#111.821
 1102	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@yad1986m#@yad1986m#111.821#111.984
 1103	как	как	SCONJ	_	_	_	_	_	words@yad1986m#@yad1986m#111.984#112.147
 1104	крыса	крыса	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@yad1986m#@yad1986m#112.147#112.31
@@ -1141,7 +1141,7 @@
 1138	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@yad1986m#@yad1986m#179.541#179.729
 1139	болел	болеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@yad1986m#@yad1986m#179.729#179.917
 1140	за	за	ADP	_	_	_	_	_	words@yad1986m#@yad1986m#179.917#180.105
-1141	Торпедо	Торпедо	PROPN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@yad1986m#@yad1986m#180.105#180.295
+1141	Торпедо	Торпедо	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@yad1986m#@yad1986m#180.105#180.295
 1142	а	а	CCONJ	_	_	_	_	_	words@yad1986m#@yad1986m#182.45#182.565
 1143	/	/	PUNCT	_	_	_	_	_	words@yad1986m#@yad1986m#182.565#182.68
 1144	только	только	PART	_	_	_	_	_	words@yad1986m#@yad1986m#182.68#182.795
